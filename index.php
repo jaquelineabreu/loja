@@ -10,7 +10,7 @@
 
 
 	//valores para o template
-	$smarty->assign('NOME', 'HUGO VASCONCELOS DE FREITAS');
+	$smarty->assign('NOME', 'Objetivo - Estudo de loja virtual');
 
 	$smarty->display('index.tpl');
 
